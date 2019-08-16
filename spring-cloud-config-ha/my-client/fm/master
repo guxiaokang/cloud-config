@@ -5,7 +5,7 @@
 	"version": "51d81a5aacce45b97af6db2482769fe02873c548",
 	"state": null,
 	"propertySources": [{
-		"name": "https://github.com/guxiaokang/spring-cloud-config-ha/spring-cloud-config-ha/my-client-fm.properties",
+		"name": "https://github.com/guxiaokang/spring-cloud-config-ha/my-client-fm.properties",
 		"source": {
 			"config": "this is dev!"
 		}
