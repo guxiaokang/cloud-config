@@ -1,0 +1,11 @@
+{
+  "name":"my-client",
+  "profiles":["fm"],
+  "label":"master",
+  "version":"93df4ee70f4ddb1e0b914028e90e860847360206",
+  "state":null,
+  "propertySources":[{
+    "config":"Are you oo",
+    "mc":"fuck"
+  }  
+  ]}
